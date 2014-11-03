@@ -1,0 +1,8 @@
+{
+	"name": "twitchannouncer",
+	"dependencies": {
+		"irc": "*",
+		"sugar": "*",
+		"node-twitchtv": "*"
+	}
+}
